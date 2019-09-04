@@ -1,3 +1,5 @@
-
-red2
-white3
+blue
+red
+white
+yellow
+green
